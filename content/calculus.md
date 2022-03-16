@@ -1,7 +1,9 @@
 ---
-title: "CalculusWithJulia"
-metaTitle: "CalculusWithJulia"
-metaDescription: "CalculusWithJulia"
+title: "calculus"
+metaTitle: "calculus"
+metaDescription: "This is the meta description for this page"
 ---
 
-## CalculusWithJulia
+The following is a code block with JavaScript language syntax highlighting.
+
+## calculus

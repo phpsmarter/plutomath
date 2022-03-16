@@ -40,14 +40,14 @@ const config = {
     forcedNavOrder: [
       '/introduction', // add trailing slash if enabled above
       '/codeblock',
-      '/calculuswithjulia',
-      '/linearalgebrawithjulia'
+      '/linearalgebra',
+      '/calculus'
 
     ],
     collapsedNav: [
       '/codeblock',
-      '/calculuswithjulia',
-      '/linearalgebrawithjulia'// add trailing slash if enabled above
+      '/linearalgebra',
+      '/calculus'// add trailing slash if enabled above
     ],
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: false,
